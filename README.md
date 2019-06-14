@@ -9,7 +9,7 @@ This repository accompanies my experiments with Docker based on the materials of
 - [Day One (pdf)](https://github.com/excelsiorsoft/docker-beyond-the-basics-ci-cd/blob/master/dayOne.pdf)
 - [Day Two (pdf)](https://github.com/excelsiorsoft/docker-beyond-the-basics-ci-cd/blob/master/dayTwo.pdf)
 
-All **links** in the above guides **are functional i****n the original pdf's**.
+All **links** in the above guides **are functional in the original pdf's**.
 
 
 Repo with code: 
