@@ -14,3 +14,5 @@ All **links** in the above guides **are functional in the original pdf's**.
 
 Repo with code: 
 [https://github.com/spkane/docker201](https://github.com/spkane/docker201)
+
+[Continuous Delivery With Spinnaker](https://github.com/excelsiorsoft/docker-beyond-the-basics-ci-cd/blob/master/ContinuousDeliveryWithSpinnaker.pdf)
